@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neww0x
-- 👀 I’m interested in in tech
+- 👀 I’m interested in tech
 - 🌱 I’m currently learning how to develop in web3
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me : i live on the internet 
